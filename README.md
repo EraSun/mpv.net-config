@@ -40,6 +40,5 @@ Copy-Item -Recurse -Force .\* "$env:APPDATA\mpv.net\"
 ## 环境
 
 - OS: Windows 11
-- 显示器: HDR 1600nit 峰值 / 700nit 持续
 - mpv.net 版本: 7.x+
 - mpv 版本: 0.41.0 (via Scoop)
