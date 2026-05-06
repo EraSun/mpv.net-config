@@ -1,0 +1,6 @@
+# mpv.net local state (not tracked)
+settings.xml
+watch_later/
+*.log
+*.cache
+libplacebo.cache
